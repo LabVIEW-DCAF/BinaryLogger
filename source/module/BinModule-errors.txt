@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<nidocument>
+<nicomment>
+
+<nifamily familyname="Binary Logger" displayname="Binary Logger">
+</nifamily>
+</nicomment>
+<nierror code="538402">
+A timeout occurred when attempting to move data from the module interface to the background binary writer. Try increasing the queue size or reducing the quantity of data to write.
+</nierror>
+<nierror code="538403">
+The background process aborted for an unknown reason.
+</nierror>
+</nidocument>
