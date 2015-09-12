@@ -4,6 +4,7 @@
 	<Property Name="NI.Lib.SourceVersion" Type="Int">318799872</Property>
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">true</Property>
+	<Item Name="bin test.vi" Type="VI" URL="../bin test.vi"/>
 	<Item Name="channel operation tests.vi" Type="VI" URL="../channel operation tests.vi"/>
 	<Item Name="create test channels.vi" Type="VI" URL="../create test channels.vi"/>
 	<Item Name="example test.vi" Type="VI" URL="../example test.vi"/>
@@ -13,6 +14,5 @@
 	<Item Name="runtime io test.vi" Type="VI" URL="../runtime io test.vi"/>
 	<Item Name="serialization tests.vi" Type="VI" URL="../serialization tests.vi"/>
 	<Item Name="subscription test.vi" Type="VI" URL="../subscription test.vi"/>
-	<Item Name="tdms test.vi" Type="VI" URL="../tdms test.vi"/>
 	<Item Name="test bin file.vi" Type="VI" URL="../test bin file.vi"/>
 </Library>
